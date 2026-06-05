@@ -30,3 +30,9 @@ outputs/charts/*
 # Raw source files (kept local only)
 data/raw/*
 !data/raw/.gitkeep
+
+#R
+shiny_app_cpf_dashboard/rsconnect/
+shiny_app_cpf_dashboard/.Rhistory
+shiny_app_project_cycle_dashboard/rsconnect/
+shiny_app_project_cycle_dashboard/.Rhistory
